@@ -1,4 +1,4 @@
-Stock Movement Prediction using Reddit Data
+#Stock Movement Prediction using Reddit Data
 
 
 This project uses data scraped from Reddit's stocks subreddit to predict stock movements based on sentiment and engagement metrics.
